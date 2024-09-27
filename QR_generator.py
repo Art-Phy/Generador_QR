@@ -1,0 +1,2 @@
+### Generador de QR ###
+
