@@ -1,8 +1,6 @@
 ## Bienvenid@s a mi Generador de QRs
 
-#### Se trata de un pequeño ejercicio para practicar Python teniendo como objetivo crear un programa que genere códigos QR para compartir lo que queramos.
-
-#### El Generador de QR es un buen ejercicio para practicar y a su vez sacarle provecho en nuestro día a día, configurándolo para genera un QR de lo que queramos y poder compartirlo.
+#### El programa genera códigos QR para compartir lo que queramos.
 
 ### Qué he usado
 
