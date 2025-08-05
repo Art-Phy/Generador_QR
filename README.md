@@ -1,6 +1,6 @@
 ## Bienvenid@s a mi Generador de QRs
 
-#### El programa genera códigos QR para compartir lo que queramos.
+#### El programa genera códigos QR para compartir lo que queramos
 
 ### Qué he usado
 
