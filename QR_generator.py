@@ -1,6 +1,6 @@
 """
 =============================
-     GENERADOR DE QR (v2)
+     GENERADOR DE QR (v1.1.0)
 =============================
 
 Autor: Art-Phy

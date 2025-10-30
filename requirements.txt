@@ -1,0 +1,10 @@
+# ===============================
+#  REQUERIMIENTOS - Generador de QR (v1.1.0)
+# ===============================
+# Este archivo lista las dependencias necesarias para ejecutar el programa.
+# Usa:
+#   pip install -r requirements.txt
+# para instalarlas automáticamente.
+
+qrcode==7.4.2
+Pillow==10.2.0
